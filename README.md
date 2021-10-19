@@ -1,3 +1,6 @@
+# Avtor
+Teja Čižman
+
 # Najbolj popularne pesmi preteklega tedna
 Projektna naloga za predmet Programiranje 1: analiza podatkov s spletne strani rollingstone.com.
 Analizirala bom 100 najbolj popularnih pesmi preteklega tedna glede na lestvico
@@ -11,8 +14,5 @@ Za vsako pesem bom zajela sledeče podatke:
 - glasbena založba, s katero izvajalec sodeluje
 
 Delovne hipoteze:
-- Ali bo imela pesem večje število predvajanj, če je več tednov na lestvici?
-- Ali bodo na lestvici prevladovale pesmi, katerih izvajalci imajo pogodbe z glasbenimi založbami?
-
-# Avtor
-Teja Čižman
+* Ali bo imela pesem večje število predvajanj, če je več tednov na lestvici?
+* Ali bodo na lestvici prevladovale pesmi, katerih izvajalci imajo pogodbe z glasbenimi založbami?
