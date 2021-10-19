@@ -14,5 +14,5 @@ Za vsako pesem bom zajela sledeče podatke:
 - glasbena založba, s katero izvajalec sodeluje
 
 Delovne hipoteze:
-* Ali bo imela pesem večje število predvajanj, če je več tednov na lestvici?
-* Ali bodo na lestvici prevladovale pesmi, katerih izvajalci imajo pogodbe z glasbenimi založbami?
+- Ali bo imela pesem večje število predvajanj, če je več tednov na lestvici?
+- Ali bodo na lestvici prevladovale pesmi, katerih izvajalci imajo pogodbe z glasbenimi založbami?
