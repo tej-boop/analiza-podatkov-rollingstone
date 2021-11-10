@@ -31,8 +31,8 @@ with open("filmi.csv", "w", encoding="utf-8") as dat:
         "top_mesto",
         "stevilo_predvajanj"
     ], extrasaction="ignore")
-    for pesem in pesmi:
-        writer.writerow(pesem)
+    writer.writeheader()
+    writer.writerows(pesmi)
 
 # for i, ujemanje in enumerate(vzorec.finditer(vsebina), 1):
 #     print(i, ujemanje.groupdict())
