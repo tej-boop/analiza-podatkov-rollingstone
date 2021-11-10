@@ -3,7 +3,7 @@ import json
 import csv
 
 with open("100-najbolj-popularnih-pesmi.html", encoding="utf-8") as dat:
-    vsebina = dat.read()
+    vsebina = dat.read().replace("&amp;", "&")
 
 vzorec = re.compile(
     r'rank">(?P<rank>\d+)</div>'
