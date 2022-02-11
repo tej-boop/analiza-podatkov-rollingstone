@@ -25,3 +25,14 @@ S pomočjo kode, napisane v prebery-pesmi.py, sem ustvarila CSV datoteko filmi.c
 - glasbena založba, s katero izvajalec sodeluje
 - mesto, v katerem je pesem najbolj popularna
 - število predvajanj v milijonih
+
+## Zaključek
+1. Število tednov na lestvici in število predvajanj določene pesmi nista odvisna ena od drugega.
+Velja pa omeniti, da je število predvajanj odvisno od mesta pesmi na lestvici. Višje na lestvici, kot je pesem,
+večje bo njeno število predvajanj.
+2. Na lestvici so prevladovale pesmi, katerih izvajalci imajo pogodbe z glasbeni založbami.
+
+V veljavnost hipotez sem se bolj poglobila v .ipynb datoteki v tem repozitoriju.
+
+Vredno je tudi omeniti, da sem imela z izbiro spletne strani veliko srečo, saj so manj kot en teden po
+moji začetni analizi spletne strani del Rolling Stone-a, ki je vseboval vse te statistične lestvice, izbrisali.
